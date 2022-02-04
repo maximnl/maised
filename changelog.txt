@@ -1,0 +1,4 @@
+2021-12-15
+Import files
+Import of 1000+ records raw files were causing issues at sql server (limitations)
+We splitted the insert transactions into 500 rows batches. 
