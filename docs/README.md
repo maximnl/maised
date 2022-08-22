@@ -1,4 +1,5 @@
 # Getting Started
+[MAISED documentation](https://maximnl.github.io/maised/)
 
 ## Quick start
 
