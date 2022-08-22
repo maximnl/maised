@@ -98,3 +98,5 @@ Now the target images are zoomable!
 ## What's Next?
 
 Check out [Guide](/guide) and [Configuration](/configuration).
+
+Documentation built using [DOCSIFY](https://docsify.js.org/#/)
