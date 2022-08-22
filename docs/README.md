@@ -2,8 +2,7 @@
 
 ## Quick start
 
-To experient MAISED right away, try [MAISED](https://maised.com) :
-
+To experient MAISED right away, register an account (comming soon for public) or login: [MAISED](https://maised.com) :
 
 ## What's Next?
 
