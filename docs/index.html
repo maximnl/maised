@@ -23,7 +23,22 @@
       auto2top: true,
       subMaxLevel: 3,
       search: 'auto',
-      coverpage: 'coverpage.md'
+      coverpage: 'coverpage.md',
+      alias: {
+         '/.*/_navbar.md': '/_navbar.md',
+         '/guide/(.*)/_sidebar.md': '/guide/sidebar.md',
+         '/examples/.*/_sidebar.md': '/examples/sidebar.md',
+         '/customization/(.*)': '/guide/customization/$1',
+         '/customization/(.*)': '/guide/customization/$1',
+         '/developer-zone/(.*)': '/guide/developer-zone/$1',
+         '/occa/(.*)': '/guide/occa/$1',
+         '/okl/(.*)': '/guide/okl/$1',
+         '/user-guide/(.*)': '/guide/user-guide/$1',
+         '/c/(.*)': '/examples/c/$1',
+         '/cpp/(.*)': '/examples/cpp/$1',
+         '/py/(.*)': '/examples/py/$1'
+       },
+      loadNavbar: true
     }
   </script>
 
