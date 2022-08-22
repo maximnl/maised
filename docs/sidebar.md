@@ -1,6 +1,6 @@
 - [Getting Started](/)
 - [Guide](guide.md)
-- [Configuration](configuration.md)
+- [Configuration](maised_configuration.md)
 - [API Reference](api-reference.md)
 - [FAQ](https://github.com/maximnl/maised/issues)
 - [Change Logs](https://github.com/maximnl/maised/releases)
