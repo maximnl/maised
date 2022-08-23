@@ -1,4 +1,5 @@
 - [Getting Started](/)
+- [Intro](site/index.html)
 - [Guide](maised_guide.md)
 - [Configuration](maised_configuration.md)
 - [FAQ](https://github.com/maximnl/maised/issues)
