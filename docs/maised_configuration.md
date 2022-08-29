@@ -1,4 +1,4 @@
-MAIS is a data processing engine that converts any time related data/transactions from a SQL table/view into a time series format of MAIS. This requires understanding of how import logica, MAIS data and how parameters are merged. If you already are familiar with these basic concept, you can jump to the procedure parameters description.
+MAISED configuration prescribes how any data is imported into the time serie format. MAISED uses MAIS SQL engine to process the data. For definitions and technical details of import please check [MAIS configuration](https://github.com/maximnl/mais/blob/main/docs/configuration.md). Here we will describe grafical part of configuration.
 
 ## Dimensions
 ### Activity 
