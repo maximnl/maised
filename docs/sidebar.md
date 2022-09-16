@@ -2,9 +2,9 @@
 - [Architecture](architecture.md)
 - [Configuration](configuration.md)
 - [Step By Step Guide](guide.md)
+- [Menu](menu/)
 - [Report a bug](https://github.com/maximnl/maised/issues)
 - [Change Logs](https://github.com/maximnl/maised/releases)
-- [Research](research.md)
 - **Links**
 - [Youtube](https://www.youtube.com/channel/UCVwnyyikS5K__OJXnhM1APg)
 - [![Github](assets/img/github.svg)Github](https://github.com/maximnl/maised)
