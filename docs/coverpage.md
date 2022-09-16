@@ -8,7 +8,7 @@
 
 ![image](https://user-images.githubusercontent.com/33482502/190707787-32585b55-3a85-47fd-9426-e3931cac14d9.png)
 
-We are commited to apply best WEB technologies to support reporting data/components management. 
+We are commited to apply the best WEB technologies to drastically simplify reporting data/components management. 
 - Configure and document reporting componets
 - Let users upload any raw data right into a database
 - Import data from any table source
