@@ -1,9 +1,11 @@
 # Getting Started
-[MAISED documentation](https://maximnl.github.io/maised/)
+
+[MAIS documentation site](https://maximnl.github.io/mais/)
 
 ## Quick start
 
-To experient MAISED right away, register an account (comming soon for public) or login: [MAISED](https://maised.com) :
+To experient MAISED right away, login or make an account(comming soon) at [MAISED](https://maised.com) :
+
 
 ## What's Next?
 
