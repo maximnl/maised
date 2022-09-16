@@ -3,13 +3,16 @@
 
 # MAISed
 
-> A WEB/MOBILE app for MAIS framework configuration.
+> A WEB/MOBILE app for MAIS framework configuration, a time series data warehouse.
+> A huge step towards an agile corporate reporting. 
 
-We applied the best WEB technologies to manage all your reporting components as an accountant would manage the accounts. 
-- Configure reporting metadata to simplified access 
-- Upload user files and add data to any table or chart
-- Import data from any table source  
-- Work with multiple forecasts, upload them or use MAIS forecasting
+We are commited to apply best WEB technologies to support reporting data/components management. 
+- Configure and document reporting componets
+- Let users upload any raw data right into a database
+- Import data from any table source
+- Share and easy access any reporting data right from a database (SQL on premise or Azure) 
+- Enable multiple forecasts, uploaded or calculated by MAIS forecasting
+- Work with production/acceptation environments, keep unlimited history of your most important data
 
 
 [GitHub](https://github.com/maximnl/maised/)
