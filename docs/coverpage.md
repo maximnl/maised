@@ -1,5 +1,5 @@
 ![image](https://user-images.githubusercontent.com/33482502/186895321-b55f3b2c-1d64-4017-b128-ce0edde15d8e.png)
-![image](https://user-images.githubusercontent.com/33482502/190707674-dbc1ece8-33c2-45a1-bb72-96d2cafdce6d.png)
+![image](https://user-images.githubusercontent.com/33482502/190707787-32585b55-3a85-47fd-9426-e3931cac14d9.png)
 
 # MAISed
 
